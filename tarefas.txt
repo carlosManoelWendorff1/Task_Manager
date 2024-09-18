@@ -1,0 +1,5 @@
+wash_dishes=True,1
+sweep_floor=True,2
+water_plants=True,3
+take_out_trash=True,1
+clean_windows=False,4
